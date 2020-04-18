@@ -1,0 +1,7 @@
+apiVersion: kube-pizza.billabrian6.com/v1alpha1
+kind: Pizza
+metadata:
+  name: pizza-sample
+spec:
+  # Add fields here
+  foo: bar

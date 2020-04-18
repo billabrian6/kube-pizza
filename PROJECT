@@ -1,0 +1,7 @@
+domain: billabrian6.com
+repo: github.com/billabrian6/kube-pizza
+resources:
+- group: kube-pizza
+  kind: Pizza
+  version: v1alpha1
+version: "2"
